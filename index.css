@@ -24,21 +24,6 @@ header{
   text-decoration: none;
   font-size: 23px;
 }
-.taula-quisom{
-    padding: 10%;
-    text-align: left;
-    line-height: 1.5;
-}
-img{
-    border-radius: 80px;
-}
-.mapa{
-    display: block;
-    margin: auto;
-    width: 600;
-    height: 400;
-    border-radius:5px;
-}
 .menus{
     text-decoration: none;
     color: black;
@@ -47,13 +32,6 @@ img{
     text-decoration: none;
     color: black;
     margin-right: 35px;
-}
-.on-som{
-    text-align: center;
-}
-.fotos-quisom{
-    display: block;
-    margin: auto;
 }
 .presentacio{
     text-align: center;
