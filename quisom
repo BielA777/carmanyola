@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+    <meta charset="UTF-8">
+    <title>Cas_08</title>
+    <link rel="stylesheet" href="css/index.css" type="text/css"> 
+    </head>
+    <body>
+        <header>
+            <a href="index.html" class="nom-empresa"><strong>CARMANYOLA</strong></a>
+            <a href="qui-som.html" class="menus">Qui Som</a>
+            <a href="serveis.html" class="menus">Serveis</a>
+            <a href="contacte.html" class="menu-contacte">Contacte</a>
+        </header>
+        
+        <table class="taula-quisom">
+        <tr>
+            <td><img src="imatges-i-video/equip.jpg" width="350" class="fotos-quisom"></td>
+        <td><h1>Qui som?</h1>Som una petita empresa catalana dedicada a la gestió de l'apartat informàtic per a diversos negocis. Vam iniciar al 2010, gràcies al nostre fundador Aleix Lecha Carbonell, i actualment comptem amb un equip de cinc treballadors especialitzats en diferents àmbits de la informàtica i l'empresa, i una gran llista de clients satisfets.</td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <td> <h1>Objectiu</h1>A Carmanyola, busquem satisfer les necessitats dels nostres clients proporcionant-los solucions tecnològiques, personalitzades i adaptades al seu projecte. Ens esforcem per entendre les seves prioritats i oferir-los un servei complet, des del muntatge i configuració de hardware fins al cablejat i la gestió de xarxes socials, ajustant-nos al seu pressupost per garantir la màxima qualitat al millor preu.</td>
+            <td><img src="imatges-i-video/objectiu.jpg" width="350" class="fotos-quisom"></td>
+        </tr>
+        </table>
+       
+        <h1 class="on-som">On som?</h1>
+        TecnoCampus - Edifici TMC1, Carrer d'Ernest Lluch, 32, Mataró, Barcelona
+<p></p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2070.1682684202337!2d2.4327766795373447!3d41.52811067481897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4b4e449e4b9ff%3A0xafa5c65d7d90134a!2sTecnoCampus%20-%20Edifici%20TMC1!5e1!3m2!1ses!2ses!4v1737388035852!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="mapa"></iframe>
+         <br>
+         <br>
+         <br>  
+    </body>
+    </html>
